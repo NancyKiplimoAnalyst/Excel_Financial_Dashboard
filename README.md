@@ -11,12 +11,12 @@ Compared regional income levels.
 Examined differences across employment categories.
 
 ## Key Takeaways
-Income increased overall from January to June, with a drop around March and April before rising again.
-Expenditure remained relatively stable compared to income fluctuations.
-Full-time working individuals contributed the largest share of total income.
-Economically inactive, part-time, and training groups had lower average income compared to full-time workers.
-Some regions consistently showed higher income than others.
-A large portion of income was spent, indicating limited savings.
+-Income increased overall from January to June, with a drop around March and April before rising again.
+-Expenditure remained relatively stable compared to income fluctuations.
+-Full-time working individuals contributed the largest share of total income.
+-Economically inactive, part-time, and training groups had lower average income compared to full-time workers.
+-Some regions consistently showed higher income than others.
+-A large portion of income was spent, indicating limited savings.
 
 ## Tools Used
 Microsoft Excel (tables, charts, formulas)
